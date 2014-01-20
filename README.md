@@ -24,3 +24,11 @@ Team Values
 * Avoid meetings that do not have as their purpose making a decision. If the point of a meeting is to share information, that information can generally be shared in a written form that can be reviewed more quickly than a one hour meeting.
 * Strive to be one fad behind. We don't want to be so far behind the rest of the world that we feel handcuffed by legacy tools and software, but we also don't want to be wasting our limited time and resources on tools, software and practices that are unproven and often have no future. We are uniquely positioned to develop tools that help reach the wold for Christ. Forging the next great framework or proving the latest new tool is not our mission. As professional software developers it is important that we remain aware of those and continually have an attitude of exploration and discovery. As a team it is important that we don't infuse unproven technologies into our stack that burn us later.
 * Help keep the house clean. Technical debt is a natural byproduct of software development. Sometimes it's an idea that made sense at the time, but some time later no longer makes sense. Sometimes it's corners that were cut in an effort to meet a deadline. Regardless of the cause, technical debt is one of the biggest detractors from forward progress. Make the reduction of technical debt part of your regular workload. If you encounter a mess, it's almost always worth taking the time to clean it up before moving on.
+* 
+
+Team Inbox
+-----------
+* Each team member is assigned a day of the week to cover the team's support inbox (mailto:webandmobiledevelopment@cru.org).
+* A 24 hour initial response time is expected during the normal week (weekends and some holidays excluded)
+* The assigned person for the day should resolve any issues they are able to resolve.  If not, then forward the email to someone else on the team who can resolve it, and add any appropriate labels (assignee and system).  Do not archive the email unless you are the dev responding to the client.
+* If you know you will be out for an assigned inbox day, please coordinate with someone else on the team to monitor the inbox in your place so the load doesn't fall all on one person, or if two people are out, the inbox go unwatched.
